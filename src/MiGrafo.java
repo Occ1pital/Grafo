@@ -1,5 +1,6 @@
 import java.util.ArrayList;
-
+//Luis Gerardo Pacheco Castañeda
+//Jovana Piña Gonzalez
 /**
  * En esta clase se demuestra como funciona la clase Grafo
  * Comenzaremos creando un objeto Grafo vacío.
